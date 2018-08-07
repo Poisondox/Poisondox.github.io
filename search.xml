@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title><![CDATA[blog function test]]></title>
+    <url>%2F2018%2F08%2F07%2Fblog-function-test%2F</url>
+    <content type="text"><![CDATA[mathjax test. f(x)= \begin{cases} 0& \text{x=0}\\\\ 1& \text{x!=0} \end{cases}When $a \ne 0$, there are two solutions to (ax^2 + bx + c = 0) and they are x = {-b \pm \sqrt{b^2-4ac} \over 2a}.code highlight test. 123456#include &lt;iostream&gt;int main()&#123; std::cout&lt;&lt;"hello world! hello hexo."&lt;&lt;std:endl;&#125; 123shell code$ hexo deploy$ npm install img insert test]]></content>
+  </entry>
+</search>
